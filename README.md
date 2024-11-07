@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Lucas <img height="40" src="https://cdn3.emoji.gg/emojis/69000-invaderzim-gir.gif"></h1>
-<h3 align="center">Um desenvolvedor FullStack (mais voltado ao Front-End <img src="https://cdn3.emoji.gg/emojis/20489-bombasitic-side-eye.png")</h3>
+<h3 align="center">Um desenvolvedor FullStack (mais voltado ao Front-End <img height="30" src="https://cdn3.emoji.gg/emojis/20489-bombasitic-side-eye.png")</h3>
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 
