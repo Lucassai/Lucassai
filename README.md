@@ -7,7 +7,7 @@
 </div>
 
 
--🔭 Estudante de Análise e Desenvolvimento de Sistemas
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 
 - 🌱 Estudando no Bootcamp Java FullStack da Generation
 
