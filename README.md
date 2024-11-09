@@ -6,13 +6,16 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
+
+-🔭 Estudante de Análise e Desenvolvimento de Sistemas
 
 - 🌱 Estudando no Bootcamp Java FullStack da Generation
 
-- 📫 Meu e-mail é "lucasvmo42@gmail.com"
+- 💬 Meu discord é mendeslucas Id : 323145191701610497
 
 - ⚡ Grande fã de animes, jogos e claro CODAR!!
+
+- 📫 Meu e-mail é "lucasvmo42@gmail.com"
 
 <h3 align="center">Conecte-se comigo: </h3>
 <div align="center">
