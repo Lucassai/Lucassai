@@ -6,7 +6,7 @@
        alt="snake" /></a>
 </div>
 
-
+<div align="left">
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 
 - 🌱 Estudando no Bootcamp Java FullStack da Generation
@@ -16,7 +16,7 @@
 - ⚡ Grande fã de animes, jogos e claro CODAR!!
 
 - 📫 Meu e-mail é "lucasvmo42@gmail.com"
-
+</div>
 <h3 align="center">Conecte-se comigo: </h3>
 <div align="center">
 
