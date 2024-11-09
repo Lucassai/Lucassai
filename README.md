@@ -7,6 +7,7 @@
 </div>
 
 <div align="left">
+  
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 
 - 🌱 Estudando no Bootcamp Java FullStack da Generation
