@@ -2,8 +2,8 @@
 <h3 align="center">Um desenvolvedor FullStack (mais voltado ao Front-End <img height="30" src="https://cdn3.emoji.gg/emojis/20489-bombasitic-side-eye.png")</h3>
 <!--- snake -->
 <div align="center">
-  <img  src=""
-       alt="snake" />https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg</a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
