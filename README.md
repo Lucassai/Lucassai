@@ -15,6 +15,8 @@
 - 💬 Meu discord é mendeslucas !
 
 - ⚡ Grande fã de animes, jogos e claro CODAR!!
+  
+- 🪑Vencedor do concurso de dança das cadeiras na 5ª serie !!
 
 - 📫 Meu e-mail é "lucasvmo42@gmail.com"
 </div>
