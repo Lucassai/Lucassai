@@ -12,7 +12,7 @@
 
 - 🌱 Estudando no Bootcamp Java FullStack da Generation
 
-- 💬 Meu discord é mendeslucas !
+- 💬 Meu discord é mendeslucas, id: 323145191701610497!
 
 - ⚡ Grande fã de animes, jogos e claro CODAR!!
   
