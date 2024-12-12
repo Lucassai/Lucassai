@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou o Lucas <img height="40" src="https://cdn3.emoji.gg/emojis/69000-invaderzim-gir.gif"></h1>
+<h1 align="center">Olá 👋, eu sou o Lucas <img height="40" src="https://cdn3.emoji.gg/emojis/69000-invaderzim-gir.gif"></h1>
 <h3 align="center">Um desenvolvedor FullStack (mais voltado ao Front-End <img height="30" src="https://cdn3.emoji.gg/emojis/20489-bombasitic-side-eye.png")>)</h3>
 <!--- snake -->
 <div align="center">
@@ -92,4 +92,5 @@
 
 [Lucassai](https://github.com/lucassai)
 
-Last Edited on: 07/11/2024
+![](https://komarev.com/ghpvc/?username=lucassai&color=blue&style=flat)
+
