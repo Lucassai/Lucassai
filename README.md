@@ -60,8 +60,6 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lucassai&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   
-<img src="https://streak-stats.demolab.com?user=lucassai&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucassai&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
