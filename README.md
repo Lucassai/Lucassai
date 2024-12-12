@@ -59,7 +59,10 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lucassai&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lucassai&theme=highcontrast&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=lucassai&theme=highcontrast&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
 
 <td width="50%" align="center">
 
