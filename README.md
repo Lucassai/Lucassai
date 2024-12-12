@@ -59,8 +59,8 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lucassai&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=lucassai)](https://git.io/streak-stats)" /> 
-</td>
+<!--- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=lucassai)](https://git.io/streak-stats)" /> 
+</td> -->
 
 <td width="50%" align="center">
 
