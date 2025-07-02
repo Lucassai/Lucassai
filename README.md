@@ -50,6 +50,12 @@
      <a href="https://nestjs.com/" target="_blank">
     <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="Java" width="40" height"40"/>
    </a> 
+     <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="Java" width="40" height"40"/>
+   </a> 
+     <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" alt="Java" width="40" height"40"/>
+   </a> 
   
 </p>
 <!--- stats & Trophy (start) -->
