@@ -44,9 +44,13 @@
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height"40"/>
    </a> 
-  <a href="https://dev.java/" target="_blank">
+  <a href="https://nestjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height"40"/>
    </a> 
+  <a href="https://dev.java/" target="_blank">
+    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="Java" width="40" height"40"/>
+   </a> 
+  
 </p>
 <!--- stats & Trophy (start) -->
 
